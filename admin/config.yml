@@ -1,0 +1,22 @@
+
+backend:
+  name: github
+  repo: persianworld/persianworld.github.io
+  branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "lessons"
+    label: "درس‌ها"
+    folder: "lessons"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "عنوان درس"
+        name: "title"
+        widget: "string"
+      - label: "متن درس"
+        name: "body"
+        widget: "markdown"
