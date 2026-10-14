@@ -3,6 +3,7 @@ backend:
   name: github
   repo: persianworld/persianworld.github.io
   branch: main
+  base_url: https://sveltia-cms-auth.yektakord7.workers.dev
 
 media_folder: "uploads"
 public_folder: "/uploads"
