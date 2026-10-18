@@ -1,3 +1,9 @@
+---
+title: آموزش Markdown
+description: آشنایی با قالب‌بندی متن، عنوان‌ها و پیوندها در Markdown.
+order: 1
+---
+
 # آموزش Markdown
 
 به دنیای فارسی خوش آمدید!

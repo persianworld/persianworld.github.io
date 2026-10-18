@@ -1,0 +1,1 @@
+`lesson.docx` is a small synthetic Word document used by the converter integration tests. It contains Persian text, Word Title and Heading 2 styles, bold and italic runs, a hyperlink, bulleted and numbered lists, a table, and a one-pixel PNG. It contains no user data.
