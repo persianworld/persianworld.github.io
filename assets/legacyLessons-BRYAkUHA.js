@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-P2Xu9kJm.js";window.location.replace(`lessons.html${window.location.search}${window.location.hash}`);
